@@ -1,0 +1,20 @@
+{
+  "name": "zein-fakhreddine",
+  "version": "1.0.0",
+  "description": "Module used to create hash tables",
+  "main": "HashTable.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zein-Fakhreddine/HashTable.git"
+  },
+  "author": "Zein Fakhreddine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zein-Fakhreddine/HashTable/issues"
+  },
+  "homepage": "https://github.com/Zein-Fakhreddine/HashTable#readme"
+}
